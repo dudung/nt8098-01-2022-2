@@ -3,8 +3,8 @@ Notes between 16-20 January 2023 at [146920](https://edunex.itb.ac.id/courses/45
 
 - Information
   + Rooms
-    - 9310 at 0900-1040 for Wednesday (not this week only)
-    - 9310 at 0900-1040 for Friday (this week only)
+    - ~9315~ 9310 at 0900-1040 for Wednesday (not this week only)
+    - ~9531~ 9310 at 0900-1040 for Friday (this week only)
 - Materials
   + [Course introduction and plan](20220120-0.jpeg)
   + [Parts of scientific article](20220120-1.jpeg)
