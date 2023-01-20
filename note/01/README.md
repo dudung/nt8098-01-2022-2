@@ -10,4 +10,3 @@ Notes between 16-20 January 2023 at [146920](https://edunex.itb.ac.id/courses/45
   + [Parts of scientific article](20220120-1.jpeg)
 - Task
   + 01 [Create GitHub account and fork two repositories](https://github.com/dudung/nt8098-01-2022-2/issues/1)
-
