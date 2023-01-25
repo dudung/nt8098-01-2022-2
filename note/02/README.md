@@ -6,6 +6,11 @@ Notes between 23-27 January 2023 at [148637](https://edunex.itb.ac.id/courses/45
   + Rooms
     - ~9315~ 9310 at 0900-1040 for Wednesday (25 Jan)
 - Materials
+  + [Repositori kuliah dan contoh program Python](20220125-0.jpeg)
+  + [Akses berkas Excel](20220125-1.jpeg)
+  + [Langkah menggunakan Pandas](20220125-2.jpeg)
+  + [Meilih kolom data pada dataframe](20220125-3.jpeg)
+- Codes
   + [read_file](https://github.com/dudung/py-jupyter-nb/blob/main/src/pandas/excel/basic/read_file.ipynb)
   + [read_file_sheet](https://github.com/dudung/py-jupyter-nb/blob/main/src/pandas/excel/basic/read_file_sheet.ipynb)
   + [read_file_header_lines](https://github.com/dudung/py-jupyter-nb/blob/main/src/pandas/excel/basic/read_file_header_lines.ipynb)
@@ -28,5 +33,3 @@ Notes between 23-27 January 2023 at [148637](https://edunex.itb.ac.id/courses/45
   + [mix_signal](https://github.com/dudung/py-jupyter-nb/blob/main/src/fft/mix_signal.ipynb)
   + [save_wav_file](https://github.com/dudung/py-jupyter-nb/blob/main/src/fft/save_wav_file.ipynb)
   + [beats](https://github.com/dudung/py-jupyter-nb/blob/main/src/fft/beats.ipynb)
-- Codes
-  + ..
