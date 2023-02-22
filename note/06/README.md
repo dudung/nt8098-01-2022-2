@@ -8,4 +8,5 @@ Notes between 20 - 27 February 2023.
 - Materials
   + [NT6094 Teknik Penulisan Jurnal Ilmiah](https://doi.org/10.5281/zenodo.7039627)
   + [Layanan akses publikasi, jenis publikasi, syarat kelulusan](https://doi.org/10.5281/zenodo.7058927)
-  
+  + [Indeks jurnal, jurnal pemangsa,akses terbuka, sitasi, kuartil](https://doi.org/10.5281/zenodo.7082128)
+
