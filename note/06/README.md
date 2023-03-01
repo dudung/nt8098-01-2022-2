@@ -1,5 +1,5 @@
 # 06
-Notes between 20 - 27 February 2023.
+Notes between 20 - 24 February 2023.
 
 - Information
   + Edunex at [157203](https://edunex.itb.ac.id/courses/45997/preview/157203).
