@@ -8,3 +8,4 @@ Some notes for this course.
 + [Week 05](05/README.md)
 + [Week 06](06/README.md)
 + [Week 07](07/README.md)
++ [Week 08](08/README.md)
