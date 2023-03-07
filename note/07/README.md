@@ -8,3 +8,4 @@ Notes between 27 February - 3 Maret 2023.
 - Materials
   + [Sitasi dan kuartil](https://doi.org/10.5281/zenodo.7082128)
   + [Jurnal: Pendahuluan](https://doi.org/10.5281/zenodo.7103264)
+  + [Catatan papan tulis](20230301-0.jpeg)
